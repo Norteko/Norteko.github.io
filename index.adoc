@@ -1,4 +1,3 @@
-:revremark: Solution
 :figure-caption!:
 :toc: left
 :toc-title: Содержание
@@ -8,10 +7,34 @@
 :table-caption: Таблица
 :icons: font
 
-= Title Slide
+= Конспекты / Notes
 
-== Slide One
+== Computer science
 
-* Foo
-* Bar
-* World
+=== Устройство компьютера
+
+=== Сеть
+
+=== и т.д.  ...
+
+== Java
+
+=== Core
+
+=== Spring
+
+== Nodejs и фронтенд
+
+== Performance
+
+== Архитектура
+
+=== SOLID, GRASP
+
+=== Паттерны GOF
+
+=== Паттерны интеграции
+
+== Безопасность
+
+== Devops
