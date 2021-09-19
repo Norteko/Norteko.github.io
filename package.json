@@ -1,0 +1,25 @@
+{
+  "name": "norteko.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "render.js",
+  "dependencies": {
+    "@asciidoctor/reveal.js": "^5.0.0-rc.1",
+    "asciidoctor": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./render.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Norteko/Norteko.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Norteko/Norteko.github.io/issues"
+  },
+  "homepage": "https://github.com/Norteko/Norteko.github.io#readme"
+}
