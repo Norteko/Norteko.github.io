@@ -1,1 +1,11 @@
+:revremark: Solution
+:figure-caption!:
+:toc: left
+:toc-title: Содержание
+:toclevels: 3
+:sectnums:
+:sectanchors:
+:table-caption: Таблица
+:icons: font
+
 = Конспекты начало...
